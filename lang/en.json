@@ -1,0 +1,57 @@
+{
+    "pageview_Title1" : "Saving Time",
+    "pageview_body1": "Streamlining your business operations is crucial for staying competitive in today's fast-paced  environment.",
+    "pageview_Title2" : "Efficiency with Our ERP",
+    "pageview_body2" : "Efficiency is a key focus of our ERP system. By automating routine tasks, providing real-time data, and streamlining workflows.",
+    "pageview_Title3" : "Setup to Success",
+    "pageview_body3" : "Setting up your business for success begins with a solid foundation, and our ERP system provides just that.",
+    "pageview_Title4" : "Make your career",
+    "pageview_body4" : "Starting your career can be both exciting and daunting.",
+
+  
+    "next" : "Next",
+    "skip" :"Skip",
+    "validatorEmail" : "Please enter a correct email",
+    "email" : "Email",
+    "validatorpassword" : "Please enter the correct password",
+    "password" : "Password",
+    "rememberme" : "Remember Me" ,
+    "forgotPassword" : "Forgot Password ?",
+    "joinus" : "Join Us",
+    "welcome" : "Welcome !",
+    "login": "Login",
+    "Home" : "Home",
+    "history" : "history",
+    "Profile" : "Profile",
+    "LatestSession" : "Latest Session",
+    "Check In" : "Check In",
+    "Check Out" : "Check Out",
+    "Monthly Presence Summary" : "Monthly Presence Summary",
+    "Absent" : "Absent", 
+    "All Presences" : "All Presences",
+    "Late" : "Late",
+    "OnTime" : "OnTime",
+    "my services": "Services",
+    "follow" : "Follow",
+    "setting" : "Setting",
+    "My data" : "My data",
+    "on account" : "on account",
+    "vacation" : "Vacation",
+    "Disclaimer" : "Disclaimer",
+    "my contracts" : "My contracts",
+    "my letters" : "My letters",
+    "Clarifications" : "Clarifications",
+    "Resignation" : "Resignation",
+    "personal information" : "personal information",
+    "Administrative information" : "Administrative information",
+    "Forgot Password" : "Forgot Password",
+    "enteremail" : "Please enter your Email to receive a verification code",
+    "Send" : "Send",
+    "CheckPage" : "Check In out Page"
+
+
+
+
+
+
+}
